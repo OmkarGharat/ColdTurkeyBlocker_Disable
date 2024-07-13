@@ -9,7 +9,6 @@
     <p align="center">
         <strong>Supports:</strong> (v4.5)<br>
         <strong>Created By:</strong> <a href="https://github.com/OmkarGharat"> @OmkarGharat</a><br>
-        <a href="https://github.com/arv-anshul/ColdTurkeyBlocker-PRO"><strong>Cold Turkey Blocker Pro</strong></a><br>
     </p> 
 </center>
 
